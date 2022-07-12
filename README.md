@@ -1,7 +1,7 @@
 ### ABOUT
 
 
-I am a ✨ _Computer Science_ ✨ student and Neuroscientist. My GitHub profile will contain stuff.
+I am a ✨ _Computer Science_ ✨ student and a Neuroscientist. My GitHub profile will contain stuff.
 
 Here are some fields I'm interested in:
 
