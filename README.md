@@ -1,16 +1,17 @@
-### Hi there 👋
+### ABOUT
 
-<!--
-**kimodes/kimodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a ✨ _Computer Science_ ✨ student and Neuroscientist. My GitHub profile will contain stuff.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some fields I'm interested in:
+
+- Quantum Computing
+- Neuroscience
+- Machine and Deep Learning
+- Biocomputing
+- German Language
+- Japanese Language
+- Number Theory
+- Algorithms
+
+![This is an image](https://i.pinimg.com/736x/6c/2a/5c/6c2a5ca97dd120e389c4b06bbffbf61f.jpg)
